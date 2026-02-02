@@ -17,12 +17,13 @@ import OurProcess from "./component/button/OurProcess.jsx";
 import WebCloudSystems from "./component/pages/About/WebCloudSystems.jsx";
 import { PerksSection } from "./component/pages/Career/PerksSection.jsx";
 
-import FreeConsultation from "./component/pages/Services/FreeConsultation.jsx";
+
 import ContactSection from "./component/pages/Home/ContactSection.jsx";
 import SideContactButtons from "./component/button/SideContactButtons.jsx";
 import ContactForm from "./component/button/ContactForm.jsx";
 import ScrollToTopArrow from "./component/button/ScrollToTopArrow.jsx";
 import Aboutservice from "./component/pages/About/Aboutservice.jsx";
+import FreeConsultation from "./component/pages/services/FreeConsultation.jsx";
 
 
 
